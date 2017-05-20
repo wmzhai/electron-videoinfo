@@ -9,6 +9,7 @@
   "author": "Weiming Zhai <wmzhai@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "electron": "^1.6.8"
+    "electron": "^1.6.8",
+    "fluent-ffmpeg": "^2.1.2"
   }
 }
